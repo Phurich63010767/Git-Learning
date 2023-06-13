@@ -9,10 +9,10 @@ root.render(
     <App />
 );
 
-const root2 = ReactDOM.createRoot(document.getElementById('root2'));
-root2.render(
-    <App />
-);
+// const root2 = ReactDOM.createRoot(document.getElementById('root2'));
+// root2.render(
+//     <App />
+// );
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
