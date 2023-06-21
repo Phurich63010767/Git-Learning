@@ -24,7 +24,7 @@ const App = () => {
                   <Button type="primary">Todo List</Button>
                 </Link> 
               </div>
-              <div className="button"><Button type="primary" href='https://www.youtube.com/watch?v=dQw4w9WgXcQ' target="_blank">Free Nuggets</Button></div>
+              <div className="button"><Button type="link" href='https://www.youtube.com/watch?v=dQw4w9WgXcQ' target="_blank">Free Nuggets</Button></div>
             </Route>
 
             <Route path="/main">
